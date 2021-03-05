@@ -2,8 +2,6 @@
 
 ### Hi there ,I'm 2bW👋
 
-![](http://antzuhl.cn:4000/get/@2bWant2b.readme)
-
 🎓 **About:** Sophomores in HDU.  
 💕 **Hobbies:** Coding, Guitar, Learning.  
 🏢 **Organizations:** [@Redhome](https://github.com/Redhome-Studio)

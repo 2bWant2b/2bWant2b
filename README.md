@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=TRHX&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true">
 
 ### Hi there ,I'm 2bW👋
 
@@ -11,8 +11,6 @@
 [![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fitrhx)](https://www.zhihu.com/people/2bwant2b)
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white)](mailto:tzh363231879@163.com)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2bWant2b)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **2bWant2b/2bWant2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

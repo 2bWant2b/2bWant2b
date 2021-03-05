@@ -2,9 +2,9 @@
 
 ### Hi there ,I'm 2bW👋
 
-🎓 **About:** 21 Years old Developer from China.  
-💕 **Hobbies:** Coding, Open-Source, Guitar, Learning.  
-🏢 **Organizations:** [@Programming-With-Love](https://github.com/Programming-With-Love)
+🎓 **About:** Sophomores in HDU.  
+💕 **Hobbies:** Coding, Guitar, Learning.  
+🏢 **Organizations:** [@Redhome](https://github.com/Redhome-Studio)
 
 [![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.itrhx.com%2F)](https://2bwant2b.com/)
 [![CSDN URL](https://img.shields.io/twitter/url?color=%23F91310&label=CSDN&logo=C&logoColor=white&style=flat-square&url=https%3A%2F%2Fitrhx.blog.csdn.net%2F)](https://blog.csdn.net/tzh666777)

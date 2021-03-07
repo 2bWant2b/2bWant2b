@@ -3,7 +3,7 @@
 ### Hi there ,I'm 2bW👋
 
 🎓 **About:** Sophomores in HDU.  
-💕 **Hobbies:** Coding, Guitar, Learning.  
+💕 **Hobbies:** Coding, Guitar, Learning, Fitness.  
 🏢 **Organizations:** [@Redhome](https://github.com/Redhome-Studio)
 
 [![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.itrhx.com%2F)](https://2bwant2b.com/)

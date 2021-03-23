@@ -2,7 +2,7 @@
 
 ### Hi there ,I'm 2bW👋
 
-🎓 **About:** Sophomores in HDU.  
+🎓 **Degree:** Sophomores in HDU.  
 💕 **Hobbies:** Coding, Guitar, Learning, Fitness.  
 🏢 **Organizations:** [@Redhome](https://github.com/Redhome-Studio)
 

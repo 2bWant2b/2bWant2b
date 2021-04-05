@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true&theme==solarized-light">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true&theme==buefy">
 
 ### Hi there ,I'm 2bW👋
 

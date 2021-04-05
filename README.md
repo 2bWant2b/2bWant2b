@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true&theme==buefy">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bWant2b&show_icons=true&layout=compact&theme=solarized-light">
 
 ### Hi there ,I'm 2bW👋
 
@@ -12,7 +12,7 @@
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white)](mailto:tzh363231879@163.com)
 
 ---
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bWant2b&show_icons=true&layout=compact&theme=solarized-light">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true&theme==buefy">
 ### Languages and Tools:
 
 <p>  

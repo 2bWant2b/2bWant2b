@@ -1,5 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true">
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=2bWant2b&show_icons=true&theme==solarized-light">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bWant2b&show_icons=true&layout=compact&theme=solarized-light">
 ### Hi there ,I'm 2bW👋
 
 🎓 **Degree:** Sophomores in HDU.  

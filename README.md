@@ -1,6 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bWant2b&show_icons=true&layout=compact&theme=dracula">
 
-### Hi there ,I'm 2bW👋
+### Hi there ,I'm 2bW👋 <img src="https://gitee.com/tzh363231879/picgo/raw/master/爱心小猫.gif" width="27px">
+
 
 🎓 **Degree:** Sophomores in HDU.  
 💕 **Hobbies:** Coding, Guitar, Learning, Fitness.  
